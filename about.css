@@ -1,0 +1,17 @@
+.more-about {
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+    background-color: rgb(118, 235, 118);
+  }
+  
+  .more-about h2 {
+    margin-bottom: var(--bottom-margin);
+    text-align: center;
+    color: red;
+  }
+  
+  .more-about p {
+    line-height: var(--line-height);
+    padding: 0.4rem;
+    color: blue;
+  }
